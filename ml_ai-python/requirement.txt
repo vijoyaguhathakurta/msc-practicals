@@ -1,0 +1,5 @@
+Without PIP:
+python -m pip install numpy pandas matplotlib scikit-learn scipy scikit-fuzzy
+
+With PIP:
+pip install numpy pandas matplotlib scikit-learn scipy scikit-fuzzy
