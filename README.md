@@ -1,6 +1,6 @@
 # MSc Computer Science Practicals
 
-This repository contains my BSc practical assignments
+This repository contains my MSc practical assignments
 across core Computer Science subjects.
 
 Purpose:
